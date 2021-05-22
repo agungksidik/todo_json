@@ -2,36 +2,36 @@
   "todos":[
     {
       "id" : 1,
-      "name": "Learn about Polymer",
-      "created_at": "2014-06-26 04:07:31",
+      "name": "Shalat subuh",
+      "time": "04:45",
       "category": "Personal",
       "is_complete" : true
     },
     {
       "id" : 2,
-      "name" : "Watch Pluralsight course on Docker",
-      "created_at" : "2014-06-26 04:07:31",
+      "name" : "Create mobile app with flutter",
+      "time" : "20:10",
       "category": "Work",
       "is_complete" : true
     },
     {
       "id" : 3,
-      "name" : "Complete presentation prep for Aurelia presentation",
-      "created_at" : "2014-06-26 04:07:31",
+      "name" : "Jajan Bala-bala",
+      "time" : "15:15",
       "category": "Other",
       "is_complete" : true
     },
     {
       "id" : 4,
-      "name": "Instrument creation of development environment with Puppet",
-      "created_at" : "2014-06-26 04:07:31",
+      "name": "Shalat magrib di mesjid al-aqsa palestine",
+      "time" : "18:00",
       "category": "Personal",
       "is_complete" : false
     },
     {
       "id" : 5,
-      "name": "Transition code base to ES6",
-      "created_at" : "2014-06-26 04:07:31",
+      "name": "Latihan best practice coding",
+      "time" : "22:00",
       "category": "Work",
       "is_complete" : false
     }
@@ -40,5 +40,9 @@
     { "id": 1, "name": "Personal"},
     { "id": 2, "name": "Work"},
     { "id": 3, "name": "Other"}
+  ],
+  "user": [
+    { "id": 1, "name": "Agung Sidik M"},
+    { "id": 2, "name": "Rayyan FIkar Abqori"},
   ]
 }
